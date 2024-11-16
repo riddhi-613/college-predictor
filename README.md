@@ -1,1 +1,2 @@
-# college-predictor
+# College Predictor System 
+The objective was to develop a machine learning model to predict the likelihood of a student gaining admission into an IITs (Indian Institute of Technology) or NITs (National Institute of Technology) based solely on their JEE Mains score. This project aims to create an easy-to-use tool that provides an estimate of admission probability to an IIT or NIT, also predicting what different branches or degree programs that one might get. 
