@@ -31,3 +31,9 @@ Trained and optimized models like Decision Tree and Random Forest.
 6. Model Evaluation :
 Assessed accuracy and other metrics for reliable predictions.
 
+# How to generate and run the project 
+1. Generate the model and run the code for the same on vscode or any other suitable platform
+2. Generation of requirements.txt file is the most important (here all the libraries used with thier versions used are stated).
+3. Now the app.py app is the main which is the main app behind the flask code.
+4. Run the app.py file andgo on to the localhost link to view the webpage.
+5. The frontend webpage opens where the desired details about the candidates are submitted and then the desired college name, branch name and degree pursuing gets predicted on the screen.
